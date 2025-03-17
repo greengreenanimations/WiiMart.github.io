@@ -1,4 +1,4 @@
-# WiiMart: a working, active WSC revival
+# WiiMart: a working, active WSC revival!
 
 <img src="WiiMart_star_logo.png" alt="WiiMart's logo">
 
