@@ -1,0 +1,179 @@
+/* WiiMart CSS by ChrisplayzWii 2025. */
+
+/* Main styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: normal;
+  scroll-behavior: smooth;
+  font-family: 'Wii NTLG PGothic JPN Regular';
+}
+
+@font-face {
+  font-family: 'Wii NTLG PGothic JPN Regular';
+    /* wii shop font from: https://github.com/amarillonmc/MSE201_w_ygos10/blob/master/font/ZENTemplate/FOT-Rodin%20Pro%20M.ttf */
+  src: url(/font/FOT-Rodin\ Pro\ M.ttf);
+}
+
+body {
+  margin: auto;
+  text-align: center;
+  font-weight: normal;
+  animation: fadeoutlikethewiishop 0.4s linear forwards;
+  height: 100vh;
+  padding: 0 3px;
+}
+
+/* removed for speed
+@keyframes fadeoutlikethewiishop {
+  0% { opacity: 0%; }
+  100% { opacity: 100%; }
+}
+*/
+
+/* Links */
+a {
+  text-decoration: none;
+  color: #0ab0da;
+  display: inline-block;
+  transition:.3s ease-in-out;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #323232;
+  transition:.3s ease-in-out;
+}
+
+::selection {
+  color: #323232;
+  background: #34BEED;
+}
+
+::-moz-selection {
+  color: #323232;
+  background: #34BEED;
+}
+
+b {
+  font-weight: bold;
+}
+/* Links */
+
+/* topbar */
+
+/* loading icon */
+#wiiring {
+  animation: spinner 1s linear infinite;
+  transition:.3s ease-in-out;
+  position:fixed;
+  width:95px; height:95px;
+  opacity:90%;
+}
+#wiiringshadow {
+animation: spinner 1s linear infinite;
+transition:.3s ease-in-out;
+position:fixed;
+width:95px; height:95px;
+opacity:30%;
+}
+
+@keyframes spinner {
+from {transform: rotate(0deg)}
+to {transform: rotate(343deg)};
+}
+/* loading icon */
+.titleofpage {
+  text-align:left; margin-left:20px; color:#34BEED; font-weight:bold; font-size:30px; display:block; margin-left:20px; margin-top:0px;  height:23px; margin-bottom:0;
+}
+#dot {
+  font-size: 30px;
+  color: #8C8C8C;
+  width:100%;
+  height:35px;
+  overflow:hidden;
+  }
+  .top {
+      position:absolute;
+      left:0;
+      padding-bottom:5px;
+      height:55px;
+  }
+  .bottom {
+      position:absolute;
+      left:0;
+      display:block;
+      margin-top:3px;
+      height:55px;
+      padding-bottom:20px;
+  }
+
+/* topbar */
+
+
+/* Main styles */
+
+/* fun */
+hr {
+  border-top: 1px solid #34BEED;
+  border-bottom: 1px solid #34BEED;
+  border-left: 80px solid #b6edff;
+  border-right: 80px solid #b6edff;
+  margin:auto;
+  max-width:70%;
+}
+
+/* wii shop type button made by ChrisplayzWii.
+ smalltext,mediumtext,largetext, were made by me peeking at the wii shop css,
+  its just font sizes!1!1 i didnt steal!!! 
+ */
+ button {
+  text-align: center;
+  padding: 3px 5px;
+transition:0s;
+  border-radius: 5px;
+  border: 1.3px solid #34beed;
+  background-color:#f6fdff;
+  filter: drop-shadow(1px 1px 3.4px #c5c5c5);
+  box-shadow:inset 1px 1px 12px #54545415;
+  font-size:18px;
+}
+
+button:hover {
+  transition:0s;
+  border:2px solid #34beed;
+  outline:1.5px solid #34bEED;
+  cursor:pointer;
+}
+/*forthese, add class="BTN___text" to your button */
+.BTNsmalltext {
+  font-size: 14px;
+}
+.BTNmediumtext {
+  font-weight:normal;
+  font-size: 18px;
+}
+.BTNlargetext {
+  font-weight:normal;
+  font-size: 22px;
+}
+/* wii shop type button made by ChrisplayzWii.
+smalltext,mediumtext,largetext, were made by me peeking at the wii shop css,
+its just font sizes!1!1 i didnt steal!!! 
+*/
+
+/* fun */
+
+
+#infoblock {
+  border-radius:8px;
+  background-color:#78dcfd;
+  font-weight:bold;
+  display:inline-block;
+  text-align:center;
+  padding-left:5px;
+  padding-right:5px;
+  margin:2px;
+}
+/* WiiMart CSS by ChrisplayzWii 2025. */
