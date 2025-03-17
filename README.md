@@ -10,10 +10,10 @@ You can find its source code here.
 
 # Download
 The cIOSes are [here](https://wiimart.github.io/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/wad/).
-In case the website is down:
-WiiMart's latest WAD can always be found here: https://lnlenost.github.io/various-stuff/wiimart/WiiMart.wad
-cIOS 56 for the Wii is available here: https://lnlenost.github.io/various-stuff/wiimart/IOS56(Wii).wad
-While cIOS56 for vWii (Wii U) here: https://lnlenost.github.io/various-stuff/wiimart/IOS56(vWii).wad 
+- In case the website is down:
+- WiiMart's latest WAD can always be found here: https://lnlenost.github.io/various-stuff/wiimart/WiiMart.wad
+- cIOS 56 for the Wii is available here: https://lnlenost.github.io/various-stuff/wiimart/IOS56(Wii).wad
+- While cIOS56 for vWii (Wii U) here: https://lnlenost.github.io/various-stuff/wiimart/IOS56(vWii).wad 
 If you need support, join the [Discord](https://dsc.gg/WiiMart)!
 
 # Installation
