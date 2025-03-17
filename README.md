@@ -1,6 +1,6 @@
 # WiiMart: a working, active WSC revival (Made by Ocarinaoftime64)
 
-<img src="https://file.garden/Z9Bs3ZQDFXkNPYbh/WiiMart_star_logo.png" alt="WiiMart's logo">
+<img src="https://file.garden/Z9Bs3ZQDFXkNPYbh/WiiMart_star_logo.png" width="600" height="200" alt="WiiMart's logo">
 
 Nintendo, if you want me to take this down, please email me at wiimartshopping@gmail.com
 (please don't though I love this)
