@@ -1,6 +1,6 @@
-# WiiMart: a working, active WSC revival
+# WiiMart: a working, active WSC revival (Made by Ocarinaoftime64)
 
-<img src="WiiMart_star_logo.png" alt="WiiMart's logo">
+<img src="https://file.garden/Z9Bs3ZQDFXkNPYbh/WiiMart_star_logo.png" alt="WiiMart's logo">
 
 Nintendo, if you want me to take this down, please email me at wiimartshopping@gmail.com
 (please don't though I love this)
@@ -10,7 +10,11 @@ You can find its source code here.
 
 # Download
 The cIOSes are [here](https://wiimart.github.io/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/wad/).
-In the meantime, [join the Discord!](https://dsc.gg/WiiMart)
+- In case the website is down:
+- WiiMart's latest WAD can always be found here: https://lnlenost.github.io/various-stuff/wiimart/WiiMart.wad
+- cIOS 56 for the Wii is available here: https://lnlenost.github.io/various-stuff/wiimart/IOS56(Wii).wad
+- While cIOS56 for vWii (Wii U) here: https://lnlenost.github.io/various-stuff/wiimart/IOS56(vWii).wad 
+- If you need support, join the [Discord](https://dsc.gg/WiiMart)!
 
 # Installation
 Downloading WiiMart varies on what platform you are on.
