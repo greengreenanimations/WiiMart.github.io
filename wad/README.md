@@ -2,6 +2,6 @@
 
 You can download WiiMart's latest WAD here.
 
-[Download](https://ocarinaoftime.github.io/WiiMart/wad/WiiMart.wad)
+[Download](https://wiimart.github.io/website/wad/WiiMart.wad)
 
-[Go back to the main page](https://ocarinaoftime.github.io/WiiMart)
+[Go back to the main page](https://wiimart.github.io/website)
