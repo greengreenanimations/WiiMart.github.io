@@ -1,5 +1,5 @@
-//var SNDover = new Audio("/sound/wiishopsounds/2.wav"); causing too much lag (for some reason)
-var SNDclick = new Audio("/sound/wiishopsounds/3.wav");
+
+var SNDclick = new Audio("https://wiimart.github.io/sound/wiishopsounds/3.wav");
 function initloading() {
     document.getElementById("wiishoploadingicon").style.display="block";
     setTimeout(stoploading,2500); // if page dont load past this point loader stops xD
@@ -19,34 +19,34 @@ function stoploading() {
     }
 
     function overobject() {
-        var SNDover2 = new Audio("/sound/wiishopsounds/2.wav");
+        var SNDover2 = new Audio("https://wiimart.github.io/sound/wiishopsounds/2.wav");
         SNDover2.play();
     }
 
     function clickobject() {
-        var SNDclick2 = new Audio("/sound/wiishopsounds/3.wav");
+        var SNDclick2 = new Audio("https://wiimart.github.io/sound/wiishopsounds/3.wav");
         SNDclick2.play();
     }
 
     function keyboardopensound() {
-      var SNDKBD = new Audio("/sound/wiikbd4.wav");
+      var SNDKBD = new Audio("https://wiimart.github.io/sound/wiikbd4.wav");
       SNDKBD.play();
     }
 
     function points() {
-      var SNDwiipointadded = new Audio("/sound/wiishopsounds/7.wav");
+      var SNDwiipointadded = new Audio("https://wiimart.github.io/sound/wiishopsounds/7.wav");
       SNDwiipointadded.play();
   }
 
 
     function playBGM() {
-      var BGMintro = new Audio("/music/shop_bgm_intro.wav");
+      var BGMintro = new Audio("https://wiimart.github.io/music/shop_bgm_intro.wav");
       BGMintro.play();
       setTimeout(playBGMloop,6500);
       }
       
       function playBGMloop() {
-          var BGMmain = new Audio("/music/shop_bgm_loop.wav");
+          var BGMmain = new Audio("https://wiimart.github.io/music/shop_bgm_loop.wav");
           BGMmain.play();
           BGMmain.loop=true;
           }
