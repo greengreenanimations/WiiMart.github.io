@@ -1,4 +1,4 @@
-var SNDover = new Audio("//sound/wiishopsounds/2.wav");
+var SNDover = new Audio("/sound/wiishopsounds/2.wav");
 var SNDclick = new Audio("/sound/wiishopsounds/3.wav");
 function initloading() {
     document.getElementById("wiishoploadingicon").style.display="block";
